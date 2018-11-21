@@ -1,4 +1,4 @@
-# Docker Image for Zentao
+# Docker Image for Ranzhi 
 [![Docker Build Status](https://img.shields.io/docker/build/idoop/ranzhi.svg)](https://hub.docker.com/r/idoop/ranzhi/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/idoop/ranzhi.svg)](https://hub.docker.com/r/idoop/ranzhi/)
 [![Docker Automated build](https://img.shields.io/docker/automated/idoop/ranzhi.svg)](https://hub.docker.com/r/idoop/ranzhi/)
